@@ -1,0 +1,9 @@
+# Ignore more_examples folder
+more_examples/
+
+# Common files to ignore
+*.tmp
+*.temp
+*~
+.DS_Store
+Thumbs.db
