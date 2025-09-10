@@ -2,9 +2,10 @@
 
 > A structured 6-step approach to PhD thesis preparation and writing
 
-**Author:** Kwok Chin Yuen (PhD Candidate, Year 4)  
+**Author:** [Kwok Chin Yuen](https://www.linkedin.com/in/chin-yuen-kwok-b1163b1b4/) (PhD Candidate, Year 4)  
 **Supervisor:** Prof. Chng Eng Siong  
-**Institution:** Nanyang Technological University
+**Institution:** Nanyang Technological University  
+**Last Updated:** September 10, 2025
 
 ## 📖 Introduction
 
@@ -71,7 +72,7 @@ My supervisor developed this systematic approach to address the common challenge
 Format: [YourName]_thesis_[Date]_Pg[PageNumber].pdf
 Example: Aaron_thesis_1Aug_Pg50.pdf
 ```
-**Include:** Your name, submission date, and current page count
+**Include:** Your name, submission date, and pages/chapters edited
 
 ### Communication Protocol
 
